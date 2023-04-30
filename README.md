@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timipiri
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript and Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Worldclass Projects
 - 📫 How to reach me timipiri.godgift@gmail.com
 
