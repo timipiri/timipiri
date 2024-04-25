@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @timipiri
 - 👀 I’m a Data Engineer/Database Administrator/Data Analyst
 - 🌱 I’m currently seeking an entry position into Data Engineering
-- My current skills include: Python, R, SQL, RDBMS (Oracle, MS SQL Server, MySQL, PostgreSQL), NOSQL (MongoDB, Cassandra, Cloudant), Tableau, Cognos, Shell Script, Git/GitHub
+- My current skills include: Python, R, SQL, BigQuery, RDBMS (Oracle, MS SQL Server, MySQL, PostgreSQL), NOSQL (MongoDB, Cassandra, Cloudant), ETL Pipelines, Apache (Airflow, Kafka, Spark), Tableau, Cognos, Shell Script, Git/GitHub
 - 💞️ I’m looking to collaborate on Worldclass Projects
 - 📫 How to reach me timipiri.godgift@gmail.com
 
