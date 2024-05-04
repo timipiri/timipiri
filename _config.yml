@@ -1,5 +1,5 @@
 title: Timipiri Godgift
 logo: assets/TIMI.jpg
-description:
-show_downloads: true
-theme: jekyll-theme-minima
+description: portfolio
+show_downloads: false
+theme: jekyll-theme-minimal
